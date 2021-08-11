@@ -34,7 +34,7 @@ After submitting your project, the teacher will give you feedback on your projec
 
 ————— xxx ————— xxx ————— xxx ————— xxx ————— xxx —————
 
-
+<h1> IN HTML </h1>
 <h2> Goal of the Project: </h2> 
 In this project, you have to practice and apply what you have learned in the class and modify a Lap Timer to apply the timer functionality.
 
