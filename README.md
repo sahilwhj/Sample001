@@ -58,9 +58,9 @@ Aarvi loves to jog every single morning in a playground, near her house. However
 5. Rename the project to __Project13__ and click the __Save__ button.
 		 
 ## Steps to Complete the Project:  
-![a]("https://github.com/sahilwhj/Sample001/blob/main/New%20images/a.gif")
-![b]("https://github.com/sahilwhj/Sample001/blob/main/New%20images/b.gif")  
-![c]("https://github.com/sahilwhj/Sample001/blob/main/New%20images/c.gif")
+![a]("https://github.com/sahilwhj/Sample001/blob/main/New%20images/a.png")
+![b]("https://github.com/sahilwhj/Sample001/blob/main/New%20images/b.png")  
+![c]("https://github.com/sahilwhj/Sample001/blob/main/New%20images/c.png")
 ## Submitting the Project:
 1. Click __Share__ to generate a sharable link.  
 ![d](https://user-images.githubusercontent.com/88723126/128972844-7ce95fe6-9e84-4c76-8793-297ed77b0334.gif)
