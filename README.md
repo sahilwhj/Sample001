@@ -11,7 +11,7 @@ In this project, you have to practice and apply what you have learned in the cla
 ## Getting Started:
 1. Login to [code.org](http://code.org)
 
-2. Click on  
+2. Click on ![3](https://user-images.githubusercontent.com/88723126/128972456-9162e6ae-833a-4a6a-90db-b3ed3a2e88ed.png) 
 
 3. Click the View Code button.
 
