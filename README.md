@@ -47,7 +47,7 @@ Aarvi loves to jog every single morning in a playground, near her house. However
 <p align="center"> <b> Expacted Output </b> </p>
 
 <h2> Getting Started: </h2>  
-1. Login to [code.org](http://code.org)
+1. Login to <a href="www.code.org">code.org</a>
 
 2. Click on ![3](https://user-images.githubusercontent.com/88723126/128972456-9162e6ae-833a-4a6a-90db-b3ed3a2e88ed.png) 
 
