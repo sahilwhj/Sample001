@@ -4,10 +4,10 @@ In this project, you have to practice and apply what you have learned in the cla
 
 ## Story:  
 Aarvi loves to jog every single morning in a playground, near her house. However, she is not able to calculate how much time it will take her to finish all her laps. Can you help Aarvi to modify an app to calculate the lap time in seconds?  
-![1](https://user-images.githubusercontent.com/88723126/129438202-33f71091-8d05-47c1-b1ce-0d60a426b2e5.gif)    
-__Initial Output  
-![2](https://user-images.githubusercontent.com/88723126/129438210-6db5fba5-57ea-4592-8933-8fac871025da.gif)  
-__Expected Output  
+![1](https://user-images.githubusercontent.com/88723126/129438202-33f71091-8d05-47c1-b1ce-0d60a426b2e5.gif)  
+Initial Output  
+![2](https://user-images.githubusercontent.com/88723126/129438210-6db5fba5-57ea-4592-8933-8fac871025da.gif)     
+Expected Output     
 
 ## Getting Started:  
 1. Login to [code.org](http://code.org)
@@ -31,7 +31,7 @@ __Expected Output
 ![e](https://user-images.githubusercontent.com/88723126/128972851-da860648-14be-4042-a9eb-e2c4ef9f2366.png)    
 __REMEMBER__ Try your best, that is more important than being correct.   
 After submitting your project, the teacher will give you feedback on your project work.  
-__————— xxx ————— xxx ————— xxx ————— xxx ————— xxx —————__
+————— xxx ————— xxx ————— xxx ————— xxx ————— xxx —————
 
 
 
