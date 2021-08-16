@@ -29,10 +29,9 @@ __Expected Output
 ![d](https://user-images.githubusercontent.com/88723126/128972844-7ce95fe6-9e84-4c76-8793-297ed77b0334.gif)  
 2. Paste __URL__ in Student Dashboard.  
 ![e](https://user-images.githubusercontent.com/88723126/128972851-da860648-14be-4042-a9eb-e2c4ef9f2366.png)    
-__REMEMBER…__ Try your best, that’s more important than being correct.   
+__REMEMBER__ Try your best, that is more important than being correct.   
 After submitting your project, the teacher will give you feedback on your project work.  
-
-————— xxx ————— xxx ————— xxx ————— xxx ————— xxx —————
+__————— xxx ————— xxx ————— xxx ————— xxx ————— xxx —————__
 
 
 
