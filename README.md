@@ -4,12 +4,10 @@ In this project, you have to practice and apply what you have learned in the cla
 
 ## Story:  
 Aarvi loves to jog every single morning in a playground, near her house. However, she is not able to calculate how much time it will take her to finish all her laps. Can you help Aarvi to modify an app to calculate the lap time in seconds?  
-<p align="center"> ![1](https://github.com/sahilwhj/Sample001/blob/main/New%20images/1.gif) </p>
-
-![1](https://user-images.githubusercontent.com/88723126/129438202-33f71091-8d05-47c1-b1ce-0d60a426b2e5.gif)  
-#### Initial Output  
-![2](https://user-images.githubusercontent.com/88723126/129438210-6db5fba5-57ea-4592-8933-8fac871025da.gif)  
-#### Expected Output  
+<p align="center"> <img width="230" height="380" src="https://github.com/sahilwhj/Sample001/blob/main/New%20images/1.gif" </p>
+<p align="center"> <b> Initial Output </b>  </p> 
+<p align="center"> <img width="230" height="380" src="https://github.com/sahilwhj/Sample001/blob/main/New%20images/2.gif" </p>
+<p align="center"> <b> Expacted Output </b> </p>
 
 ## Getting Started:  
 1. Login to [code.org](http://code.org)
