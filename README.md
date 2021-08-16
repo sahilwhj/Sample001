@@ -4,6 +4,7 @@ In this project, you have to practice and apply what you have learned in the cla
 
 ## Story:  
 Aarvi loves to jog every single morning in a playground, near her house. However, she is not able to calculate how much time it will take her to finish all her laps. Can you help Aarvi to modify an app to calculate the lap time in seconds?  
+<p align="center"> ![1](https://github.com/sahilwhj/Sample001/blob/main/New%20images/1.gif) </p>
 
 ![1](https://user-images.githubusercontent.com/88723126/129438202-33f71091-8d05-47c1-b1ce-0d60a426b2e5.gif)  
 #### Initial Output  
