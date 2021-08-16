@@ -21,10 +21,8 @@ Aarvi loves to jog every single morning in a playground, near her house. However
 5. Rename the project to __Project13__ and click the __Save__ button.
 		 
 ## Steps to Complete the Project:  
-![](https://github.com/sahilwhj/Sample001/blob/main/New%20images/a.png)
-![b](https://github.com/sahilwhj/Sample001/blob/main/New%20images/b.png)  
-
-![c](https://github.com/sahilwhj/Sample001/blob/main/New%20images/c.png)
+![a](https://user-images.githubusercontent.com/88723126/128972794-9bda7257-6fb3-4091-b215-e482e079a156.png) ![b](https://user-images.githubusercontent.com/88723126/128972810-2a73542b-d10c-47ac-a2be-2f88ffdc99eb.png)    
+![c](https://user-images.githubusercontent.com/88723126/128972815-3943278d-ec6d-4626-b169-634ec360dcf3.png)
 ## Submitting the Project:
 1. Click __Share__ to generate a sharable link.  
 ![d](https://user-images.githubusercontent.com/88723126/128972844-7ce95fe6-9e84-4c76-8793-297ed77b0334.gif)
@@ -34,4 +32,6 @@ __REMEMBER…__ Try your best, that’s more important than being correct.
 After submitting your project, the teacher will give you feedback on your project work.
 
 ————— xxx ————— xxx ————— xxx ————— xxx ————— xxx —————
+
+
 
