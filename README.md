@@ -4,10 +4,10 @@ In this project, you have to practice and apply what you have learned in the cla
 
 ## Story:  
 Aarvi loves to jog every single morning in a playground, near her house. However, she is not able to calculate how much time it will take her to finish all her laps. Can you help Aarvi to modify an app to calculate the lap time in seconds?  
-<p align="center"> <img width="230" height="380" src="https://github.com/sahilwhj/Sample001/blob/main/New%20images/1.gif" </p>
-<p align="center"> <b> Initial Output </b>  </p> 
-<p align="center"> <img width="230" height="380" src="https://github.com/sahilwhj/Sample001/blob/main/New%20images/2.gif" </p>
-<p align="center"> <b> Expacted Output </b> </p>
+![1](https://user-images.githubusercontent.com/88723126/129438202-33f71091-8d05-47c1-b1ce-0d60a426b2e5.gif)  
+#### Initial Output  
+![2](https://user-images.githubusercontent.com/88723126/129438210-6db5fba5-57ea-4592-8933-8fac871025da.gif)  
+#### Expected Output  
 
 ## Getting Started:  
 1. Login to [code.org](http://code.org)
@@ -21,9 +21,10 @@ Aarvi loves to jog every single morning in a playground, near her house. However
 5. Rename the project to __Project13__ and click the __Save__ button.
 		 
 ## Steps to Complete the Project:  
-![](https://github.com/sahilwhj/Sample001/blob/main/New%20images/a.png)   
-![b](https://github.com/sahilwhj/Sample001/blob/main/New%20images/b.png)    
-![c](https://user-images.githubusercontent.com/88723126/128972815-3943278d-ec6d-4626-b169-634ec360dcf3.png)
+![](https://github.com/sahilwhj/Sample001/blob/main/New%20images/a.png)
+![b](https://github.com/sahilwhj/Sample001/blob/main/New%20images/b.png)  
+
+![c](https://github.com/sahilwhj/Sample001/blob/main/New%20images/c.png)
 ## Submitting the Project:
 1. Click __Share__ to generate a sharable link.  
 ![d](https://user-images.githubusercontent.com/88723126/128972844-7ce95fe6-9e84-4c76-8793-297ed77b0334.gif)
